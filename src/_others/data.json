@@ -1,0 +1,39 @@
+[
+  {
+    "__________THIS JSON IS UNDER": "CONSTRUCTION______________"
+  },
+  {
+    "id": "page1",
+    "imageUrl": "../assets/gradient-generator.png",
+    "title": "Page 1 Title",
+    "description": "This is the description for Page 1."
+  },
+  {
+    "id": "page2",
+    "imageUrl": "../assets/gradient-generator.png",
+    "title": "Page 2 Title",
+    "description": "This is the description for Page 2."
+  },
+  {
+    "id": "page3",
+    "imageUrl": "../assets/website-.png",
+    "title": "Page 1 Title",
+    "description": "This is the description for Page 1."
+  },
+  {
+    "id": "page4",
+    "imageUrl": "../assets/gradient-generator.png",
+    "title": "Page 2 Title",
+    "description": "This is the description for Page 2."
+  },
+  {
+    "url": "../assets/website-.png",
+    "title": "Page 3 Title",
+    "description": "This is the description for Page 1."
+  },
+  {
+    "url": "../assets/gradient-generator.png",
+    "title": "Page 4 Title",
+    "description": "This is the description for Page 2."
+  }
+]
