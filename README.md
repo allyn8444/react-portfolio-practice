@@ -1,11 +1,11 @@
 
 
 
-# React Vite Portfolio Practice
+# React Vite Portfolio
 
 ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
-A personal portfolio project using React Vite. This serves as the final output for CC201.
+A personal portfolio project using React Vite. This serves as the final output for CC201 (Intro to Computing).
 
 ## Description
 
@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd react-vite-portfolio-practice
+   cd react-portfolio-practice
    ```
 
 3. Install dependencies using npm:
